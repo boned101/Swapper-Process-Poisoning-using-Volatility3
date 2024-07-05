@@ -1,5 +1,8 @@
 # Volatility 3 Swapper Poisoning
 
+This was a course project for the Forensics Course at Eurecom. 
+Developed by Marc Veysseyre and Sirshak Sarkar.
+
 ## Problem Statement
 
 **P3 -  Volatility3 Poisoning (1-2 students, 3 groups)**
